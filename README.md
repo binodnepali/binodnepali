@@ -11,8 +11,8 @@
 
 ### Connect with me
 
-[<img src="./assets/public.svg" alt="binodnepali.me" width="24" height="24">](https://binodnepali.me/)
-[<img src="./assets/linkedin.svg" alt="Binod Nepali | LinkedIn" width="24" height="24">](https://www.linkedin.com/in/binod-nepali-2b0962b8)
+[![binodnepali](./assets/public.svg)](https://binodnepali.me/)
+[![Binod Nepali | LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)
 
 ---
 
