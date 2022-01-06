@@ -1,10 +1,15 @@
-### Hello there 👋
+# Hello there, I'm Binod Nepali [binodnepali.me](https://binodnepali.me/) 👋
+
+## I'm a fulltime Frontend Developer and Single 🤣
 
 ---
-My name is Binod Nepali. I am originally from Nepal. Now, I am living and working in the Netherlands.
 
-I had been working as a fulltime Fullstack Web App Developer after I had graduated in Bachelor of Information and Communication Technology & Software Engineer (Major), 2019.
+* 🌱 Currently learning everything about Web Development
+* 👯 Looking to collaborate with UI/UX designer
+* 🥅  2022 Goals: Do some projects on React, Next.js, Vue, Nuxt.js and Deno. Make portfolio website.
+* ⚡ Fun fact: I love to play guitar but I need to learn it. 😂
 
-I am a passinote fullstack web app developer who enjoys developing and maintaining fullstack web based solutions suchas websites & web apps.
+### Connect with me
 
-Besides my work, I also enjoy working as Freelancer Web App Developer and IT Consultant. Therefore, If you would like to make websites or want custom web application for your buisness then you can e-mail me at nepalibinod9@gmail.com
+[<img src="./assets/public_black_24dp.svg" alt="binodnepali.me" style="margin-right:8px" width="24" height="24">](https://binodnepali.me/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="binodnepali.me" width="24" height="24">](https://www.linkedin.com/in/binod-nepali-2b0962b8)
