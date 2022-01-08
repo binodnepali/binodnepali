@@ -17,11 +17,11 @@
 
 ### Foundation
 
-![HTML](./assets/icons/foundation-skills/html5.svg)&nbsp; &nbsp; ![CSS](./assets/icons/foundation-skills/css3.svg)&nbsp; &nbsp; ![SASS](./assets/icons/foundation-skills/sass.svg)&nbsp; &nbsp; ![Javascript](./assets/icons/foundation-skills/javascript.svg)&nbsp; &nbsp; ![Typescript](./assets/icons/foundation-skills/typescript.svg)
+![HTML](./assets/icons/skills-foundation/html5.svg)&nbsp; &nbsp; ![CSS](./assets/icons/skills-foundation/css3.svg)&nbsp; &nbsp; ![SASS](./assets/icons/skills-foundation/sass.svg)&nbsp; &nbsp; ![Javascript](./assets/icons/skills-foundation/javascript.svg)&nbsp; &nbsp; ![Typescript](./assets/icons/skills-foundation/typescript.svg)
 
 ### Frontend
 
-![React](./assets/icons/frontend-skills/react.svg)&nbsp; &nbsp; ![Vue](./assets/icons/frontend-skills/vue.svg)&nbsp; &nbsp; ![Cypress](./assets/icons/frontend-skills/cypress.svg)&nbsp; &nbsp; ![TailwindCSS](./assets/icons/frontend-skills/tailwindcss.svg)&nbsp; &nbsp; ![MaterialUI](./assets/icons/frontend-skills/mui.svg)&nbsp; &nbsp; ![Vuetify](./assets/icons/frontend-skills/vuetify.svg)
+![React](./assets/icons/skills-frontend/react.svg)&nbsp; &nbsp; ![Vue](./assets/icons/skills-frontend/vue.svg)&nbsp; &nbsp; ![Cypress](./assets/icons/skills-frontend/cypress.svg)&nbsp; &nbsp; ![TailwindCSS](./assets/icons/skills-frontend/tailwindcss.svg)&nbsp; &nbsp; ![MaterialUI](./assets/icons/skills-frontend/mui.svg)&nbsp; &nbsp; ![Vuetify](./assets/icons/skills-frontend/vuetify.svg)
 
 ### Backend
 
