@@ -1,6 +1,6 @@
-# Hello there, I'm Binod Nepali 👋
+# Hello there, It's me Binod 👋
 
-## I'm a fulltime Frontend Developer and Single 🤣
+## I am a fulltime Frontend Developer and Single 🤣
 
 * 🌱 Currently learning everything about Web Development
 * 👯 Looking to collaborate with UI/UX designer
@@ -13,8 +13,6 @@
 
 [![binodnepali](./assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)
 
----
-
 ## Skills
 
 ### Foundation
@@ -24,6 +22,16 @@
 ### Frontend
 
 ![React](./assets/icons/frontend-skills/react.svg)&nbsp; &nbsp; ![Vue](./assets/icons/frontend-skills/vue.svg)&nbsp; &nbsp; ![Cypress](./assets/icons/frontend-skills/cypress.svg)&nbsp; &nbsp; ![TailwindCSS](./assets/icons/frontend-skills/tailwindcss.svg)&nbsp; &nbsp; ![MaterialUI](./assets/icons/frontend-skills/mui.svg)&nbsp; &nbsp; ![Vuetify](./assets/icons/frontend-skills/vuetify.svg)
+
+### Backend
+
+![Nodejs](./assets/icons/skills-backend/node.svg)&nbsp; &nbsp; ![GraphQL](./assets/icons/skills-backend/graphql.svg)&nbsp; &nbsp; ![Deno](./assets/icons/skills-backend/deno.svg)
+
+### Fullstack
+
+![Next.js](./assets/icons/skills-fullstack/next.svg)&nbsp; &nbsp; ![Nuxt.js](./assets/icons/skills-fullstack/nuxt.svg)
+
+> And combination of both frontend and backend skills
 
 ---
 
