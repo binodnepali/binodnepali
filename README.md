@@ -31,7 +31,9 @@
 
 ![Next.js](./assets/icons/skills-fullstack/next.svg)&nbsp; &nbsp; ![Nuxt.js](./assets/icons/skills-fullstack/nuxt.svg)
 
-> And combination of both frontend and backend skills
+### Cloud
+
+[![Google Cloud Platform](./assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![Amazon Web Services](./assets/icons/skills-cloud/amazonaws.svg)](https://aws.amazon.com/)&nbsp; &nbsp; [![MongoDB](./assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
 
 ---
 
