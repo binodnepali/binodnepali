@@ -4,7 +4,7 @@
 
 * 🌱 Currently learning everything about Web Development
 * 👯 Looking to collaborate with UI/UX designer
-* 🥅  2022 Goals: Do some projects on React, Next.js, Vue, Nuxt.js and Deno. Make portfolio website.
+* 🥅  2022 Goals: [Portfolio website](https://binodnepali.me/) and Projects using [Next.js](https://nextjs.org/), [Nuxt.js](https://nuxtjs.org/) and [Deno](https://deno.land/).
 * ⚡ Fun fact: I love to play guitar but I need to learn it. 😂
 
 ---
