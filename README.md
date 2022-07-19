@@ -11,7 +11,7 @@
 
 [![binodnepali](./assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)
 
-## Foundation
+## Web foundation
 
 [![HTML](./assets/icons/skills-foundation/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp; &nbsp; [![CSS](./assets/icons/skills-foundation/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; &nbsp; [![SASS](./assets/icons/skills-foundation/sass.svg)](https://sass-lang.com/)&nbsp; &nbsp; [![Javascript](./assets/icons/skills-foundation/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; &nbsp; [![Typescript](./assets/icons/skills-foundation/typescript.svg)](https://www.typescriptlang.org/)
 
@@ -19,7 +19,7 @@
 
 [![React](./assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](./assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
 
-## Design component library
+## Design component framework
 
 [![MaterialUI](./assets/icons/design-component-libraries/mui.svg)](https://mui.com/)&nbsp; &nbsp; [![Vuetify](./assets/icons/design-component-libraries/vuetify.svg)](https://vuetifyjs.com/)
 
@@ -31,11 +31,11 @@
 
 [![TailwindCSS](./assets/icons/css-frameworks/tailwindcss.svg)](https://tailwindcss.com/) &nbsp; &nbsp; [![Open Props](./assets/icons/css-frameworks/open-props.svg)](https://open-props.style/)
 
-## Backend
+## Backend framework
 
-[![Nodejs](./assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![GraphQL](./assets/icons/skills-backend/graphql.svg)](https://graphql.org/)&nbsp; &nbsp; [![Deno](./assets/icons/skills-backend/deno.svg)](https://deno.land/)
+[![Node.js](./assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![Express.js](./assets/icons/skills-backend/express.svg)](https://expressjs.com/)&nbsp; &nbsp; [![GraphQL](./assets/icons/skills-backend/graphql.svg)](https://graphql.org/)&nbsp; &nbsp; [![Deno](./assets/icons/skills-backend/deno.svg)](https://deno.land/)
 
-## Fullstack
+## Fullstack framework
 
 [![Next.js](./assets/icons/skills-fullstack/next.svg)](https://nextjs.org/)&nbsp; &nbsp; [![Nuxt.js](./assets/icons/skills-fullstack/nuxt.svg)](https://nuxtjs.org/)
 
