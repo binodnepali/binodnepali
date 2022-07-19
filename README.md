@@ -45,10 +45,11 @@
 
 ## Current projects (2022)
 
-1. Project [YatraYojana Website](https://www.yatrayojana.com/) & [YatraYojana Website API](https://www.yatrayojana.com/api/v1/graphql) using Next.js with Typescript & TailwindCSS
-2. Migrate project [YatraYojana Website](https://www.yatrayojana.com/) pages that uses MUI to TailwindCSS
-3. Project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 2 with JavaScript & Vuetify 2
-4. Project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v1/graphql) using Express graphql with JavaScript
+1. Project [YatraYojana Website](https://www.yatrayojana.com/) using Next.js with Typescript & TailwindCSS
+2. Project [YatraYojana Website API](https://www.yatrayojana.com/api/v1/graphql) using Next.js with Typescript & GraphQL Yoga
+3. Migrate project [YatraYojana Website](https://www.yatrayojana.com/) pages that uses MUI to TailwindCSS
+4. Project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 2 with JavaScript & Vuetify 2
+5. Project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v1/graphql) using Express graphql with JavaScript
 
 ## Upcoming projects (2023)
 
