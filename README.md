@@ -43,7 +43,12 @@
 
 [![Google Cloud Platform](./assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![Amazon Web Services](./assets/icons/skills-cloud/amazonaws.svg)](https://aws.amazon.com/)&nbsp; &nbsp; [![MongoDB](./assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
 
-## Current projects (2022)
+## Side projects
+
+1. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
+2. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
+
+## Current hobby projects (2022)
 
 1. Project [YatraYojana Website](https://www.yatrayojana.com/) using Next.js with Typescript & TailwindCSS
 2. Project [YatraYojana Website API](https://www.yatrayojana.com/api/v1/graphql) using Next.js with Typescript & GraphQL Yoga
@@ -51,7 +56,7 @@
 4. Project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 2 with JavaScript & Vuetify 2
 5. Project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v1/graphql) using Express graphql with JavaScript
 
-## Upcoming projects (2023)
+## Upcoming hobby projects (2023)
 
 1. Migrate project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 3 with Typescript & Vuetify 3
 2. Migrate project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v2/graphql) using Deno graphql with Typescript
