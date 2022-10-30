@@ -9,7 +9,7 @@
 
 ## Connect with me
 
-[![binodnepali](./assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)
+[![binodnepali](./assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)&nbsp; &nbsp; [![Gitlab](assets/icons/gitlab.svg)](https://gitlab.com/binodnepali)
 
 ## Web foundation
 
@@ -47,19 +47,6 @@
 
 1. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
 2. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
-
-## Current hobby projects (2022)
-
-1. Project [YatraYojana Website](https://www.yatrayojana.com/) using Next.js with Typescript & TailwindCSS
-2. Project [YatraYojana Website API](https://www.yatrayojana.com/api/v1/graphql) using Next.js with Typescript & GraphQL Yoga
-3. Migrate project [YatraYojana Website](https://www.yatrayojana.com/) pages that uses MUI to TailwindCSS
-4. Project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 2 with JavaScript & Vuetify 2
-5. Project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v1/graphql) using Express graphql with JavaScript
-
-## Upcoming hobby projects (2023)
-
-1. Migrate project [YatraYojana Portal](https://portal.yatrayojana.com/) using Vue 3 with Typescript & Vuetify 3
-2. Migrate project [YatraYojana Portal API](https://portal.yatrayojana.com/api/v2/graphql) using Deno graphql with Typescript
 
 ## Resources
 
