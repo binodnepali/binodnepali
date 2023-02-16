@@ -9,39 +9,39 @@
 
 ## Connect with me
 
-[![binodnepali](./assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)&nbsp; &nbsp; [![Gitlab](assets/icons/gitlab.svg)](https://gitlab.com/binodnepali)
+[![binodnepali](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)&nbsp; &nbsp; [![GitLab](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/gitlab.svg)](https://gitlab.com/binodnepali)
 
 ## Web foundation
 
-[![HTML](./assets/icons/skills-foundation/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp; &nbsp; [![CSS](./assets/icons/skills-foundation/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; &nbsp; [![SASS](./assets/icons/skills-foundation/sass.svg)](https://sass-lang.com/)&nbsp; &nbsp; [![Javascript](./assets/icons/skills-foundation/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; &nbsp; [![Typescript](./assets/icons/skills-foundation/typescript.svg)](https://www.typescriptlang.org/)
+[![HTML](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp; &nbsp; [![CSS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; &nbsp; [![SASS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/sass.svg)](https://sass-lang.com/)&nbsp; &nbsp; [![Javascript](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; &nbsp; [![Typescript](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/typescript.svg)](https://www.typescriptlang.org/)
 
 ## Frontend UI library & framework
 
-[![React](./assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](./assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
+[![React](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
 
 ## Design component framework
 
-[![MaterialUI](./assets/icons/design-component-libraries/mui.svg)](https://mui.com/)&nbsp; &nbsp; [![Vuetify](./assets/icons/design-component-libraries/vuetify.svg)](https://vuetifyjs.com/)
+[![MaterialUI](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/design-component-libraries/mui.svg)](https://mui.com/)&nbsp; &nbsp; [![Vuetify](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/design-component-libraries/vuetify.svg)](https://vuetifyjs.com/)
 
 ## Frontend testing framework
 
-[![Cypress](./assets/icons/testing-frameworks/cypress.svg)](https://www.cypress.io/)&nbsp; &nbsp; [![Playwright](./assets/icons/testing-frameworks/playwright.svg)](https://playwright.dev/)
+[![Cypress](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/testing-frameworks/cypress.svg)](https://www.cypress.io/)&nbsp; &nbsp; [![Playwright](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/testing-frameworks/playwright.svg)](https://playwright.dev/)
 
 ## CSS framework
 
-[![TailwindCSS](./assets/icons/css-frameworks/tailwindcss.svg)](https://tailwindcss.com/) &nbsp; &nbsp; [![Open Props](./assets/icons/css-frameworks/open-props.svg)](https://open-props.style/)
+[![TailwindCSS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/css-frameworks/tailwindcss.svg)](https://tailwindcss.com/) &nbsp; &nbsp; [![Open Props](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/css-frameworks/open-props.svg)](https://open-props.style/)
 
 ## Backend framework
 
-[![Node.js](./assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![Express.js](./assets/icons/skills-backend/express.svg)](https://expressjs.com/)&nbsp; &nbsp; [![GraphQL](./assets/icons/skills-backend/graphql.svg)](https://graphql.org/)&nbsp; &nbsp; [![Deno](./assets/icons/skills-backend/deno.svg)](https://deno.land/)
+[![Node.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![Express.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/express.svg)](https://expressjs.com/)&nbsp; &nbsp; [![GraphQL](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/graphql.svg)](https://graphql.org/)&nbsp; &nbsp; [![Deno](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/deno.svg)](https://deno.land/)
 
 ## Fullstack framework
 
-[![Next.js](./assets/icons/skills-fullstack/next.svg)](https://nextjs.org/)&nbsp; &nbsp; [![Nuxt.js](./assets/icons/skills-fullstack/nuxt.svg)](https://nuxtjs.org/)
+[![Next.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-fullstack/next.svg)](https://nextjs.org/)&nbsp; &nbsp; [![Nuxt.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-fullstack/nuxt.svg)](https://nuxtjs.org/)
 
 ## Cloud
 
-[![Google Cloud Platform](./assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![Amazon Web Services](./assets/icons/skills-cloud/amazonaws.svg)](https://aws.amazon.com/)&nbsp; &nbsp; [![MongoDB](./assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
+[![Google Cloud Platform](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![Amazon Web Services](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/amazonaws.svg)](https://aws.amazon.com/)&nbsp; &nbsp; [![MongoDB](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
 
 ## Side projects
 
