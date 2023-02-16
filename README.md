@@ -4,7 +4,7 @@
 
 * 🌱 Currently learning everything about Web Development
 * 👯 Looking to collaborate with UI/UX designer
-* 🥅  2022 Goal: Make a [portfolio website](https://binodnepali.me/)
+* 🥅  2023 Goal: Make a [portfolio website](https://binodnepali.me/)
 * ⚡ Fun fact: I love to play guitar but I need to learn it. 😂
 
 ## Connect with me
@@ -45,8 +45,9 @@
 
 ## Side projects
 
-1. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
-2. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
+1. [khajahuis](http://khajahuis.nl/) - Startup Nepalese restaurants in Eindhoven, the Netherlands
+2. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
+3. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
 
 ## Resources
 
