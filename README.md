@@ -1,6 +1,6 @@
 # Hello there, It's me Binod 👋
 
-## I am a fulltime Frontend Developer and Single 🤣
+## I am a fulltime Frontend Developer
 
 * 🌱 Currently learning everything about Web Development
 * 👯 Looking to collaborate with UI/UX designer
