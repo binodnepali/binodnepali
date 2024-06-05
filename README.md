@@ -57,9 +57,9 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 
 ## Side projects
 
-1. [YatraYojana](https://yatrayojana.com/) - Website that aims to make Nepal local bustimetable available online.
-2. [khajahuis](http://khajahuis.nl/) - Startup Nepalese restaurants in Eindhoven, the Netherlands
-3. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
+1. [Yatra.one](https://yatra.one/) - Project aimed at creating a unified electronic payment system for Nepal's public transportation network. Currently this project has two platform under development which are [YatraYojana.one](https://www.yatrayojana.one/) and [YatraPay.one](https://www.yatrapay.one/)
+2. [khajahuis](http://khajahuis.nl/) - Nepalese restaurant in Eindhoven, the Netherlands
+3. [Tapovumi](https://tapovumi.org/) - Saving and credit organisation in Butwal, Nepal
 
 ## Resources
 
