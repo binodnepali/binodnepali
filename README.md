@@ -28,7 +28,7 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 
 ## Frontend UI library & framework
 
-[![React](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
+[![React](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp;
 
 ## Design component framework
 
@@ -59,10 +59,9 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 
 1. [YatraYojana](https://yatrayojana.com/) - Website that aims to make Nepal local bustimetable available online.
 2. [khajahuis](http://khajahuis.nl/) - Startup Nepalese restaurants in Eindhoven, the Netherlands
-4. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
-5. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
+3. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
 
 ## Resources
 
-* Simple Icons - [Find out more](https://simpleicons.org/)
-* Material Icons - [Find out more](https://fonts.google.com/icons)
+- Simple Icons - [Find out more](https://simpleicons.org/)
+- Material Icons - [Find out more](https://fonts.google.com/icons)
