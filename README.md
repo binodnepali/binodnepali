@@ -1,7 +1,5 @@
 <!-- profile-readme:start -->
 
-<img src="https://binodnepali.me/profile.webp" width="140" height="140" alt="Binod Nepali" align="right" />
-
 # Binod Nepali
 
 **Software Engineer II at adidas**

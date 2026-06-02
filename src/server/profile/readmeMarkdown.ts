@@ -33,12 +33,6 @@ function resolveSummary(summary: string, jobStartDate: BirthDate): string {
   return summary.replace("{{year_of_experience}}", String(years));
 }
 
-function absoluteAssetUrl(siteOrigin: string, path: string): string {
-  if (path.startsWith("http://") || path.startsWith("https://")) return path;
-  const base = siteOrigin.replace(/\/$/, "");
-  return `${base}${path.startsWith("/") ? path : `/${path}`}`;
-}
-
 function textToMarkdownParagraphs(text: string): string {
   return text.split("\n").map((line) => line.trim()).filter(Boolean).map((
     line,
@@ -158,16 +152,11 @@ export function profileToMarkdown(
   options: ProfileReadmeOptions = {},
 ): string {
   const siteOrigin = options.siteOrigin ?? DEFAULT_SITE_ORIGIN;
-  const picUrl = absoluteAssetUrl(siteOrigin, profile.profile_pic_url);
   const summary = resolveSummary(profile.summary, profile.job_start_date);
   const location = `${profile.city}, ${profile.country_full_name}`;
 
   const sections: string[] = [
     "<!-- profile-readme:start -->",
-    "",
-    `<img src="${picUrl}" width="140" height="140" alt="${
-      escapeMarkdown(profile.full_name)
-    }" align="right" />`,
     "",
     `# ${profile.full_name}`,
     "",
