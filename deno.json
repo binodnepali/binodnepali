@@ -8,6 +8,7 @@
     "build": "deno run -A --unstable-kv dev.ts build",
     "preview": "deno run -A --unstable-kv main.ts",
     "tailor-cv": "deno run -A --unstable-kv --env scripts/tailor-cv.ts",
+    "generate-profile-readme": "deno run -A scripts/generate-profile-readme.ts",
     "update": "deno run -A -r https://fresh.deno.dev/update ."
   },
   "unstable": ["kv"],

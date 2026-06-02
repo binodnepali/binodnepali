@@ -39,6 +39,8 @@ Run from the repo root:
   Requires `GEMINI_API_KEY` in `.env`. Example:
   `deno task tailor-cv -- --slug acme-senior-frontend --job ./jobs/acme.txt`
   (the `--` after the task name is required so flags reach the script).
+- `deno task generate-profile-readme` — regenerate root `README.md` (GitHub
+  profile CV) from `data/linkedin-profile.json`.
 
 When verifying your own edits, prefer scoping `deno fmt` / `deno lint` /
 `deno check` to the files you touched, since unrelated files (e.g.
@@ -89,6 +91,9 @@ When verifying your own edits, prefer scoping `deno fmt` / `deno lint` /
 
 - Master profile lives in `data/linkedin-profile.json`. Edit it directly when
   updating LinkedIn-style content; there is no runtime PDF import or admin UI.
+- Root `README.md` is the **GitHub profile CV** — regenerate with
+  `deno task generate-profile-readme` after profile edits. Developer docs live in
+  `CONTRIBUTING.md`.
 - `include_in_cv: false` on skills or projects hides them in **print/PDF only**
   (`print:hidden`); they remain visible on the live site.
 - Experience/project **ids** are computed at runtime in
@@ -171,8 +176,11 @@ Flags: `--catalog`, `--dry-run`, `--job <file>`, `--job-text "..."`.
 
 - Deploys via the **new Deno Deploy** dashboard GitHub integration — pushing to
   `main` triggers a production build automatically.
-- There is intentionally **no GitHub Actions workflow** and no `deployctl`. Do
-  not reintroduce them unless explicitly asked.
+- GitHub repo: `binodnepali/binodnepali` (profile README + site). No
+  `deployctl`.
+- **Profile README sync** — `.github/workflows/profile-readme.yml` runs
+  `deno task generate-profile-readme` when profile data or the generator
+  changes. Do not add other Actions unless explicitly asked.
 
 ## Commits
 
