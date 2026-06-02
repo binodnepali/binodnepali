@@ -94,6 +94,10 @@ When verifying your own edits, prefer scoping `deno fmt` / `deno lint` /
 - Root `README.md` is the **GitHub profile CV** — regenerate with
   `deno task generate-profile-readme` after profile edits. Developer docs live in
   `CONTRIBUTING.md`.
+- Profile photo: set `profile_pic_url` to `github` (uses avatar from
+  `extra.github_profile_id`) or a full `https://…` URL. Site-relative paths also
+  resolve to the GitHub avatar; omit `profile.webp` unless you host a custom image
+  under `static/`.
 - `include_in_cv: false` on skills or projects hides them in **print/PDF only**
   (`print:hidden`); they remain visible on the live site.
 - Experience/project **ids** are computed at runtime in
