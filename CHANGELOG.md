@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.6.0](https://github-personal/binodnepali/binodnepali/compare/v2.5.0...v2.6.0) (2026-06-02)
+
+
+### Features
+
+* add profile README generation and update documentation ([a9a398e](https://github-personal/binodnepali/binodnepali/commit/a9a398e79dc8ec524f6c850138944c857c70d44d))
+* enhance profile image handling and update documentation ([d4a14a4](https://github-personal/binodnepali/binodnepali/commit/d4a14a40cfd6f49a12d0c64c851f875995d900ed))
+* update language representation in profile and documentation ([917106f](https://github-personal/binodnepali/binodnepali/commit/917106f117c71277f6b1e5d4ab4ea5dffd48b86f))
+
 ## [2.5.0](https://github-personal/binodnepali/portfolio/compare/v2.4.0...v2.5.0) (2026-05-30)
 
 
