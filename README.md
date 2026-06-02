@@ -165,7 +165,9 @@ The project goal was build up a personal website from the scratch where the user
 
 ## Languages
 
-Dutch · English · Nepali
+- English - Professional working proficiency
+- Dutch - Limited working proficiency
+- Nepali - Native or bilingual proficiency
 
 ---
 

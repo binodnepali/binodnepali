@@ -263,9 +263,18 @@
     }
   ],
   "languages": [
-    "Dutch",
-    "English",
-    "Nepali"
+    {
+      "name": "English",
+      "proficiency": "Professional working proficiency"
+    },
+    {
+      "name": "Dutch",
+      "proficiency": "Limited working proficiency"
+    },
+    {
+      "name": "Nepali",
+      "proficiency": "Native or bilingual proficiency"
+    }
   ],
   "accomplishment_courses": [
     {

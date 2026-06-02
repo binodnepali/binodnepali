@@ -17,7 +17,7 @@ export interface Profile {
   state: string;
   experiences: Experience[];
   education: Education[];
-  languages: string[];
+  languages: Language[];
   accomplishment_courses: AccomplishmentCourse[];
   accomplishment_projects: AccomplishmentProject[];
   skills: Skill[];
@@ -30,6 +30,11 @@ export interface Profile {
 export interface AccomplishmentCourse {
   name: string;
   number: string;
+}
+
+export interface Language {
+  name: string;
+  proficiency: string;
 }
 
 export interface Skill {

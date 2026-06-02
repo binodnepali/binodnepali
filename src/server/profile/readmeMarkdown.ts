@@ -11,6 +11,8 @@ import {
   formatMonthYear,
   formatYearRange,
 } from "../../utils/date.ts";
+import { formatLanguageEntry } from "../../utils/language.ts";
+import { Language } from "../../types/Profile.ts";
 
 const DEFAULT_SITE_ORIGIN = "https://binodnepali.me";
 
@@ -145,6 +147,12 @@ function skillPills(skills: Skill[]): string {
   return skills.map((s) => `\`${escapeMarkdown(s.name)}\``).join(" ");
 }
 
+function renderLanguages(languages: Language[]): string {
+  return languages.map((lang) =>
+    `- ${escapeMarkdown(formatLanguageEntry(lang))}`
+  ).join("\n");
+}
+
 export function profileToMarkdown(
   profile: Profile,
   options: ProfileReadmeOptions = {},
@@ -217,7 +225,7 @@ export function profileToMarkdown(
     sections.push(
       "## Languages",
       "",
-      profile.languages.map((l) => escapeMarkdown(l)).join(" · "),
+      renderLanguages(profile.languages),
       "",
     );
   }

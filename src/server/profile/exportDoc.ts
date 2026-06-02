@@ -185,8 +185,12 @@ function buildCoreStrengthsSection(profile: Profile): string {
 
 function buildLanguagesSection(profile: Profile): string {
   if (profile.languages.length === 0) return "";
-  const list = profile.languages.map(escapeHtml).join(" · ");
-  return sectionHeading("Languages") + `<p style="margin:0;">${list}</p>`;
+  const items = profile.languages.map((lang) => {
+    const text = escapeHtml(`${lang.name} - ${lang.proficiency}`);
+    return `<li style="margin:0 0 4px 0;">${text}</li>`;
+  }).join("");
+  return sectionHeading("Languages") +
+    `<ul style="margin:0;padding-left:1.25em;">${items}</ul>`;
 }
 
 export function buildCvWordDocument(profile: Profile): string {
