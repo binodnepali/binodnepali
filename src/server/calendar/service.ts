@@ -8,6 +8,9 @@ import { getCurrentBsYear, scrapeMonth } from "./scrape.ts";
 import { buildCalendar } from "./buildIcs.ts";
 
 const MONTHS_PER_YEAR = 12;
+// Bound parallel Hamro Patro fetches so cold year scrapes finish faster
+// without opening all 12 connections at once.
+const MONTH_SCRAPE_CONCURRENCY = 6;
 
 const DAYS_TTL_MS = 24 * 60 * 60 * 1000; // 24h
 // Re-check the current Nepali year a few times a day so the subscription
@@ -160,13 +163,39 @@ async function getDaysForMonth(
   return { days: await promise, hit: false };
 }
 
+async function mapPool<T, R>(
+  items: T[],
+  concurrency: number,
+  fn: (item: T, index: number) => Promise<R>,
+): Promise<R[]> {
+  const results = new Array<R>(items.length);
+  let next = 0;
+
+  async function worker(): Promise<void> {
+    while (next < items.length) {
+      const index = next++;
+      results[index] = await fn(items[index], index);
+    }
+  }
+
+  const workerCount = Math.min(concurrency, items.length);
+  await Promise.all(Array.from({ length: workerCount }, () => worker()));
+  return results;
+}
+
 export async function getDaysForYear(year: number): Promise<CalendarDay[]> {
   const start = Date.now();
+  const months = Array.from({ length: MONTHS_PER_YEAR }, (_, i) => i + 1);
+
+  const results = await mapPool(
+    months,
+    MONTH_SCRAPE_CONCURRENCY,
+    (month) => getDaysForMonth(year, month),
+  );
+
   const allDays: CalendarDay[] = [];
   let cachedMonths = 0;
-
-  for (let month = 1; month <= MONTHS_PER_YEAR; month++) {
-    const { days, hit } = await getDaysForMonth(year, month);
+  for (const { days, hit } of results) {
     if (hit) cachedMonths++;
     allDays.push(...days);
   }

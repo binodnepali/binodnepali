@@ -4,7 +4,7 @@ import { Handlers, PageProps } from "$fresh/server.ts";
 import CalendarFeed from "../components/CalendarFeed.tsx";
 import SiteFooter from "../components/SiteFooter.tsx";
 import Navbar from "../islands/Navbar.tsx";
-import { getSubscriptionIcs } from "../src/server/calendar/service.ts";
+import { getCurrentYear } from "../src/server/calendar/service.ts";
 import {
   buildFeedLinks,
   buildYearLinks,
@@ -17,16 +17,18 @@ import profile from "../data/linkedin-profile.json" with { type: "json" };
 export const handler: Handlers<CalendarPageData | null> = {
   async GET(_req, ctx) {
     try {
-      const { currentYear, nextYear, hasNext, eventCount } =
-        await getSubscriptionIcs();
+      // Page meta only needs the current BS year. Full ICS / event count is
+      // loaded client-side via /api/ical?format=json so first paint stays fast.
+      const currentYear = await getCurrentYear();
+      const nextYear = currentYear + 1;
       const url = new URL(ctx.url);
 
       const meta: FeedMeta = {
         name: "Nepali Patro",
         currentYear,
         nextYear,
-        hasNext,
-        eventCount,
+        hasNext: true,
+        eventCount: 0,
         generatedAt: new Date().toISOString(),
       };
 

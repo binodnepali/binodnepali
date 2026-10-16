@@ -1,6 +1,7 @@
 import Card from "./ui/Card.tsx";
 import { Link } from "./ui/Link.tsx";
 import CopyFeedUrl from "../islands/CopyFeedUrl.tsx";
+import FeedEventCount from "../islands/FeedEventCount.tsx";
 import {
   CalendarPageData,
   ICAL_FEED_PATH,
@@ -82,9 +83,9 @@ export default function CalendarFeed(
               <dt class="text-xs uppercase tracking-wide text-slate-500">
                 Events
               </dt>
-              <dd class="text-lg font-semibold">
-                {meta.eventCount.toLocaleString("en-US")}
-              </dd>
+              <FeedEventCount
+                feedJsonUrl={`${links.subscribeUrl}?format=json`}
+              />
             </div>
             <div>
               <dt class="text-xs uppercase tracking-wide text-slate-500">

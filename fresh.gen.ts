@@ -23,6 +23,7 @@ import * as $CopyCoverLetter from "./islands/CopyCoverLetter.tsx";
 import * as $CopyFeedUrl from "./islands/CopyFeedUrl.tsx";
 import * as $CoverLetterSavePdf from "./islands/CoverLetterSavePdf.tsx";
 import * as $CvActions from "./islands/CvActions.tsx";
+import * as $FeedEventCount from "./islands/FeedEventCount.tsx";
 import * as $Navbar from "./islands/Navbar.tsx";
 import * as $TailorCvForm from "./islands/TailorCvForm.tsx";
 import { type Manifest } from "$fresh/server.ts";
@@ -53,6 +54,7 @@ const manifest = {
     "./islands/CopyFeedUrl.tsx": $CopyFeedUrl,
     "./islands/CoverLetterSavePdf.tsx": $CoverLetterSavePdf,
     "./islands/CvActions.tsx": $CvActions,
+    "./islands/FeedEventCount.tsx": $FeedEventCount,
     "./islands/Navbar.tsx": $Navbar,
     "./islands/TailorCvForm.tsx": $TailorCvForm,
   },
