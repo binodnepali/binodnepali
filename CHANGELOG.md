@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.6.1](https://github-personal/binodnepali/binodnepali/compare/v2.6.0...v2.6.1) (2026-10-16)
+
+### Bug Fixes
+
+* scrape Hamro Patro calendar from bootstrap JSON ([990300d](https://github-personal/binodnepali/binodnepali/commit/990300db3e7078569b990e188846bd6967235e49)), references [#hp-bootstrap](https://github-personal/binodnepali/binodnepali/issues/hp-bootstrap)
+
 ## [2.6.0](https://github-personal/binodnepali/binodnepali/compare/v2.5.0...v2.6.0) (2026-06-02)
 
 
